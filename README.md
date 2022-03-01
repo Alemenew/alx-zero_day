@@ -1,1 +1,1 @@
-**i want to be good python developer!!**
+My first readme
